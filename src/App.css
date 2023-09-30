@@ -1,0 +1,27 @@
+a:link, a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar {
+  color: white;
+  background-color: #DC3546;
+
+  span {
+    color: white;
+  }
+}
+
+.cake {
+  font-size: 100px;
+}
+
+.bg-pink {
+  width: 100px;
+  background-color: #DC3546;
+  border: 1px solid #DC3546;
+}
+
+.bg-pink:hover {
+  background-color: #ab2835;
+}
